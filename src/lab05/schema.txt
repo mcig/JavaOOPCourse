@@ -1,0 +1,14 @@
+
+
+
+
+
+
+                                     Vehicle(abstract)                                 Race(abstract)
+                                            |                                                 |
+                                            |                                                 |
+                                           Car                                             CarRace
+                                         |      |
+                                       |          |
+                                     |              |
+                                  MuscleCar      SportsCar
